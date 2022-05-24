@@ -1,4 +1,4 @@
-*This repo applies a short fix for Node v16 proposed in this merge request: https://github.com/twbs/bootstrap-npm-starter/pull/88
+*This repo applies a short fix for Node v16 proposed in this pull request: https://github.com/twbs/bootstrap-npm-starter/pull/88
 
 <p align="center">
   <img src=".github/logo.png" width="300" height="175" alt="Bootstrap npm logo">
